@@ -1,4 +1,4 @@
-Q-function demonstration with random policy for a 1D grid world.
+Action-value function demonstration with random policy for a 1D grid world.
 
 The goal is to move to the right-most tile.
 
