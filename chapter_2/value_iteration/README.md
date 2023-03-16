@@ -10,6 +10,6 @@ Algorithm:
 
 Example output:
 
-![Demo](https://user-images.githubusercontent.com/127620405/225752644-a0e9dff2-8350-434e-b42e-6a7c8444ab6a.png)
+![Demo](https://user-images.githubusercontent.com/127620405/225752832-1e578630-1096-4986-8b08-96b941300bd3.png)
 
 As we can see, moving always to the right is the optimal policy.
