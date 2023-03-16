@@ -20,11 +20,7 @@ def move(position, direction):
 def get_reward(died):
    return 0 if died else SQUARES
 
-NUM_STATES = GOAL_SQUARE
 NUM_ACTIONS = 2
-
-# ignore division by 0 warning
-np.seterr(divide="ignore", invalid="ignore")
 
 def start(epochs, debug=False):
    # Discounted reward
@@ -40,6 +36,7 @@ def start(epochs, debug=False):
       while True:
          action = policy()
          position = move(position, action)
+
          is_terminal_state = position == -1 or position == GOAL_SQUARE
       
          if is_terminal_state:
@@ -65,7 +62,7 @@ def start(epochs, debug=False):
 
    Q_function = np.divide(G, counts, dtype="f")
 
-   print(f'\nFinished the simulation. Expected returns (action-value (Q) function)=\n{Q_function}')
+   print(f'Finished the simulation. Expected returns (action-value (Q) function)=\n{Q_function}')
 
    print(f"Optimal policy: {np.max(Q_function, axis=0)} (actions={np.argmax(Q_function, axis=0)})")
 
