@@ -1,8 +1,4 @@
-On-policy monte carlo algorithm for a 1D grid world.
-
-The goal is to move to the right-most tile.
-
-Reward is given when the agent either wins or dies.
+On-policy monte carlo algorithm for 1D grid world.
 
 Algorithm:
 
