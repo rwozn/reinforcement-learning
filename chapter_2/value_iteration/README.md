@@ -6,10 +6,10 @@ Reward is given when the agent either wins or dies.
 
 Algorithm:
 
-![Algorithm](https://user-images.githubusercontent.com/127620405/225740531-c6fb3ec0-4af0-447c-9fef-b5670127e7bc.png)
+![Algorithm](https://user-images.githubusercontent.com/127620405/225752671-5df04cc0-18c1-4b1a-8267-7a095b6168d4.png)
 
 Example output:
 
-![Demo](https://user-images.githubusercontent.com/127620405/225749153-3c0397be-3032-47fd-b8b2-7991614bc018.png)
+![Demo](https://user-images.githubusercontent.com/127620405/225752644-a0e9dff2-8350-434e-b42e-6a7c8444ab6a.png)
 
 As we can see, moving always to the right is the optimal policy.
