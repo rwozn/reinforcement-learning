@@ -7,7 +7,7 @@ Algorithms:
   - SARSA (on-policy TD)
   - Q-learning (off-policy TD)
   - n-step SARSA
-  - SARSA (λ)
+  - SARSA(λ)
   - deep Q network
   - n-step actor-critic
   - REINFORCE
