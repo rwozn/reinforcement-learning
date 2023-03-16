@@ -4,7 +4,7 @@ Environment specification:
 
 The goal is to move to the right-most tile.
 
-- State space: N tiles
+- State space: [0, 1, 2, ..., N-1] tiles
 
 - Action space: [0 = move left, 1 = move right]
 
