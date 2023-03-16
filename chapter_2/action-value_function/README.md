@@ -1,4 +1,4 @@
-Q-function for a 1-D grid world. The goal is to move to past the right-most tile. Reward is given when the agent either wins or dies.
+Q-function for a 1D grid world. The goal is to move to past the right-most tile. Reward is given when the agent either wins or dies.
 
 Example output:
 
