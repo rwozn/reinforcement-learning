@@ -16,7 +16,7 @@ def move(position, direction):
 def get_reward(died):
    return 0 if died else SQUARES
 
-NUM_STATES = GOAL_SQUARE
+NUM_STATES = SQUARES
 NUM_ACTIONS = 2
 
 def generate_trajectory(policy):
@@ -36,9 +36,9 @@ def generate_trajectory(policy):
       
       actions.append(action)
       states.append(position)
-
+   
    died = position == -1
-
+   
    return list(zip(states, actions + [action], [0] * len(actions) + [get_reward(died)]))
 
 """
@@ -85,4 +85,4 @@ def get_best_action(Q, state):
 
 Q = onpolicy_monte_carlo(10000, lambda state, Q: random.randrange(NUM_ACTIONS) if random.uniform(0, 1) <= epsilon else get_best_action(Q, state))
 
-print(f"Q (action-value function) (expected returns): {Q}")
+print(f"Q (action-value function) (expected returns):\n{Q}")
