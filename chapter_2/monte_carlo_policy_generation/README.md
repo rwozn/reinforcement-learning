@@ -10,6 +10,6 @@ Algorithm:
 
 Example output:
 
-![Demo](https://user-images.githubusercontent.com/127620405/225740759-7b7411b2-5929-4b37-86fe-ccaf8e6abeca.png)
+![Demo](https://user-images.githubusercontent.com/127620405/225740990-3dfe9e39-3c3a-47d1-8a4a-8a94dfb18f78.png)
 
 As we can see, moving always to the right yields the highest expected reward.
