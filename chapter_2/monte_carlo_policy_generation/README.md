@@ -1,6 +1,6 @@
 On-policy monte carlo algorithm for a 1D grid world.
 
-The goal is to move to past the right-most tile.
+The goal is to move to the right-most tile.
 
 Reward is given when the agent either wins or dies.
 
@@ -10,6 +10,6 @@ Algorithm:
 
 Example output:
 
-![Demo](https://user-images.githubusercontent.com/127620405/225741166-f25302d0-5c2f-4099-97f6-a520b85eb8d8.png)
+![Demo](https://user-images.githubusercontent.com/127620405/225749153-3c0397be-3032-47fd-b8b2-7991614bc018.png)
 
 As we can see, moving always to the right yields the highest expected reward.
