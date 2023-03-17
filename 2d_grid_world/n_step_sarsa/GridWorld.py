@@ -29,8 +29,7 @@ class Action(Enum):
 
 class State:
    def __init__(self, array):
-      self.x = array[0]
-      self.y = array[1]
+      self.x, self.y = array
 
    def __init__(self, x, y):
       self.x = x
@@ -69,8 +68,7 @@ class State:
    
 class GridWorld:
    def __init__(self, world_shape, starting_position, goal_position, cliff_tiles, step_reward, die_reward, goal_reward):
-      self.NUM_ROWS = world_shape[1]
-      self.NUM_COLUMNS = world_shape[0]
+      self.NUM_COLUMNS, self.NUM_ROWS = world_shape
 
       self.NUM_STATES = self.NUM_ROWS * self.NUM_COLUMNS
       self.STARTING_STATE = State.from_array(starting_position)
