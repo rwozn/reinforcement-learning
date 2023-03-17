@@ -2,7 +2,7 @@ SARSA(λ) algorithm demonstration for 2D grid world.
 
 Algorithm:
 
-![Algorithm](https://user-images.githubusercontent.com/127620405/225972597-8ffb7a4a-7569-446c-93c1-2e1f5364bc11.png)
+![Algorithm](https://user-images.githubusercontent.com/127620405/226028055-c469c19f-28cf-4d24-acfc-b031cef763dc.png)
 
 Example output:
 
