@@ -13,6 +13,6 @@ The objective is to move to the goal tile (at (9, 0)).
     - state ∈ cliff_tiles (lose)
 
 - Reward:
-    - p (p = 0) when won
-    - q (q = -100) when lost
-    - r (r = -1) otherwise
+    - p when won (p = 0)
+    - q when lost (q = -100)
+    - r otherwise (r = -1)
