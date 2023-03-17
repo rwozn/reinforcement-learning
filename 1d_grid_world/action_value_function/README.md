@@ -7,5 +7,3 @@ Action-value function:
 Example output:
 
 ![Demo](https://user-images.githubusercontent.com/127620405/225748226-ed9f7736-276e-47bb-bde8-643c0f1eae14.png)
-
-As we can see, moving always to the right yields the highest expected reward.

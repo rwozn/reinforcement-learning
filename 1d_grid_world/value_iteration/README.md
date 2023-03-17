@@ -7,5 +7,3 @@ Algorithm:
 Example output:
 
 ![Demo](https://user-images.githubusercontent.com/127620405/225752832-1e578630-1096-4986-8b08-96b941300bd3.png)
-
-As we can see, moving always to the right is the optimal policy.
