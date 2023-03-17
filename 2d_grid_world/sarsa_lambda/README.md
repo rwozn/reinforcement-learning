@@ -6,6 +6,6 @@ Algorithm:
 
 Example output:
 
-![Demo plot](https://user-images.githubusercontent.com/127620405/225972705-865ecc18-2a3a-459e-9441-f483d6d3e272.png)
+![Demo plot](https://user-images.githubusercontent.com/127620405/226033298-4dd0dd1a-ec2c-425a-9e6e-8018b793ac05.png)
 
-![Demo output](https://user-images.githubusercontent.com/127620405/225972809-421dce4c-ba71-430c-9483-480123accd3c.png)
+![Demo output](https://user-images.githubusercontent.com/127620405/226033109-4ad24bad-334a-4286-8390-41d5b74e3dbf.png)
