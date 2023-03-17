@@ -6,4 +6,4 @@ Algorithm:
 
 Example output:
 
-![Demo](https://user-images.githubusercontent.com/127620405/226022466-cbf489ea-5c34-49f3-b3e7-6fb977899c5b.png)
+![Demo](https://user-images.githubusercontent.com/127620405/226022950-6a29bc74-ee93-433c-8e4f-8709be035d39.png)
