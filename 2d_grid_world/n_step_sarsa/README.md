@@ -1,4 +1,4 @@
-n-step SARSA algorithm for 2D grid world.
+# n-step SARSA algorithm for 2D grid world.
 
 Algorithm:
 
