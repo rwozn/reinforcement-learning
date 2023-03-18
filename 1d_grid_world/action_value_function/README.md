@@ -1,4 +1,4 @@
-Action-value function demonstration with random policy for 1D grid world.
+# Action-value function demonstration with random policy for 1D grid world.
 
 Action-value function:
 
