@@ -79,7 +79,7 @@ def plot_average_rewards(num_experiments):
    # Q-Learning
    plt.plot([i for i in range(episodes)], np.mean(Q_learning_rewards, axis=0))
    
-   #SARSA
+   # SARSA
    plt.plot([i for i in range(episodes)], np.mean(sarsa_rewards, axis=0))
 
    plt.xlabel("Episode")
