@@ -1,4 +1,4 @@
-Value iteration algorithm for 1D grid world.
+# Value iteration algorithm for 1D grid world.
 
 Algorithm:
 
