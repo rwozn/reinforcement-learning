@@ -1,4 +1,4 @@
-Q-learning (off-policy TD) algorithm for 1D grid world.
+# Q-learning (off-policy TD) algorithm for 1D grid world.
 
 Algorithm:
 
