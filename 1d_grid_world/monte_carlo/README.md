@@ -1,4 +1,4 @@
-On-policy monte carlo algorithm for 1D grid world.
+# On-policy monte carlo algorithm for 1D grid world.
 
 Algorithm:
 
