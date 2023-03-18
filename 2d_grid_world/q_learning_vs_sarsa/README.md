@@ -1,10 +1,10 @@
-Q-learning vs SARSA algorithm for 2D grid world.
+# Q-learning vs SARSA algorithm for 2D grid world.
 
-# Comparison
+## Comparison
 
 ![Comparison](https://user-images.githubusercontent.com/127620405/226099702-6535945f-0132-468c-85a4-977bf744ed34.png)
 
-# Q-learning
+## Q-learning
 
 Algorithm:
 
@@ -16,7 +16,7 @@ Example output:
 
 ![Demo output](https://user-images.githubusercontent.com/127620405/226099768-124d0558-123b-46f9-82d2-9587b0607694.png)
 
-# SARSA
+## SARSA
 
 Algorithm:
 
