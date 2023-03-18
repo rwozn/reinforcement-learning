@@ -8,7 +8,7 @@
 
 Algorithm:
 
-![Algorithm](https://user-images.githubusercontent.com/127620405/226022293-ecf60a1b-0d55-4389-a541-702a70991217.png)
+![Algorithm](https://user-images.githubusercontent.com/127620405/226099170-cf85b654-6461-438b-b981-a840618fbd97.png)
 
 Example output:
 
