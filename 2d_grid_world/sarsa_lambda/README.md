@@ -1,4 +1,4 @@
-SARSA(λ) algorithm demonstration for 2D grid world.
+SARSA(λ) algorithm for 2D grid world.
 
 Algorithm:
 
