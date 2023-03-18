@@ -1,4 +1,4 @@
-Environment specification:
+# Environment specification:
 
 1D grid world with N tiles (N=5).
 
