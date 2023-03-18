@@ -1,4 +1,4 @@
-State-value function demonstration with random policy for 1D grid world.
+# State-value function demonstration with random policy for 1D grid world.
 
 State-value function:
 
