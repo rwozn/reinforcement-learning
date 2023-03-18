@@ -6,4 +6,6 @@ Example output:
 
 ![Reward plot](https://user-images.githubusercontent.com/127620405/226117164-903ee4d7-ba18-4b36-8d9b-15e89833045d.png)
 
+![Demo](https://user-images.githubusercontent.com/127620405/226117562-7f6bfbef-534f-4e90-a36e-018a500ed4fb.png)
+
 ![Demo output](demo.gif)
