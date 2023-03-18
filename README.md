@@ -1,6 +1,6 @@
 # reinforcement-learning
-Visualisation of RL concepts and implementation of various RL algorithms from [the book](https://rl-book.com/).
-  
+Demonstration of RL concepts and implementation of RL algorithms from [the book](https://rl-book.com/).
+
 Algorithms:
   - on-policy monte carlo
   - value iteration
