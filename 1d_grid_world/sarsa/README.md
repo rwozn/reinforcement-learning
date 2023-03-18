@@ -1,4 +1,4 @@
-SARSA (on-policy TD) algorithm for 1D grid world.
+# SARSA (on-policy TD) algorithm for 1D grid world.
 
 Algorithm:
 
